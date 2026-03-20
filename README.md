@@ -22,7 +22,7 @@ The dashboard uses historical F1 data (1950–2017) and transforms it into actio
 ![Executive Overview](Screenshot%202026-03-20%20112505.png)
 
 ### Race Results Dashboard  
-![Race Results](Screenshot%202026-03-20%20112524.png)
+![Race Results](Screenshot%202026-03-20%20115946.png)
 
 ---
 
