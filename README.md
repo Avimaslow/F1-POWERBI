@@ -59,7 +59,7 @@ These allow users to move between different analytical views, making the dashboa
 
 ---
 
-##  Race Results Dashboard (image2.png)
+##  Race Results Dashboard
 
 This page focuses on **race-level insights, competitiveness, and performance trends**.
 
